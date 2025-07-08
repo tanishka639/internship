@@ -1,0 +1,12 @@
+{
+  "name": "taniskkas",
+  "short_name": "taniskka",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F2E4",
+  "theme_color": "#A68B5B",
+  "icons": [
+    
+    
+  ]
+}
